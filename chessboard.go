@@ -1,6 +1,3 @@
-#Credit by a156f9e0
-#Copyright (C) 2025 ~ a156f9e0
-
 package main
 
 import (
